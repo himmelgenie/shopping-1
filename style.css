@@ -1,0 +1,38 @@
+.box{
+    border: 1px solid red;
+}
+
+.btn btn-outline-success{
+    color: chocolate;
+}
+
+.campaign-section{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    margin: 0px;
+}
+
+.first-line{
+    background-color: #19110b;
+    color: white;
+    text-align: center;
+}
+
+.second-line{
+    background-color: #19110b;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+a{
+    text-decoration: none;
+}
